@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# KateVR landing page
+[DEMO LINK](https://samson-sim.github.io/layout_KateVR/).
+[Figma design](https://www.figma.com/file/hhtGde1r4hMr5wghrKm6vl/KatVR?node-id=159%3A0)
+Tech stack: HTML5, SASS, JS.
+Responsive design.
